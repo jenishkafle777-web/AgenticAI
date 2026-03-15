@@ -1,0 +1,5 @@
+.env
+.tmp/
+subscriptions.json
+venv/
+__pycache__/
