@@ -1,0 +1,14 @@
+[
+    {
+        "email": "yourcustomerserviceapp@gmail.com",
+        "company": "OpenAI",
+        "topic": "",
+        "frequency": "Daily"
+    },
+    {
+        "email": "yourcustomerserviceapp@gmail.com",
+        "company": "Exelon",
+        "topic": "transmission",
+        "frequency": "Daily"
+    }
+]
